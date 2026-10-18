@@ -1,0 +1,14 @@
+D:\visual\CProj\bin\Debug\net10.0\CProj.exe
+D:\visual\CProj\bin\Debug\net10.0\CProj.deps.json
+D:\visual\CProj\bin\Debug\net10.0\CProj.runtimeconfig.json
+D:\visual\CProj\bin\Debug\net10.0\CProj.dll
+D:\visual\CProj\bin\Debug\net10.0\CProj.pdb
+D:\visual\CProj\obj\Debug\net10.0\CProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\CProj\obj\Debug\net10.0\CProj.AssemblyInfoInputs.cache
+D:\visual\CProj\obj\Debug\net10.0\CProj.AssemblyInfo.cs
+D:\visual\CProj\obj\Debug\net10.0\CProj.csproj.CoreCompileInputs.cache
+D:\visual\CProj\obj\Debug\net10.0\CProj.dll
+D:\visual\CProj\obj\Debug\net10.0\refint\CProj.dll
+D:\visual\CProj\obj\Debug\net10.0\CProj.pdb
+D:\visual\CProj\obj\Debug\net10.0\CProj.genruntimeconfig.cache
+D:\visual\CProj\obj\Debug\net10.0\ref\CProj.dll
